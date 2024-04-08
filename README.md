@@ -103,3 +103,19 @@ https://gitlab.com/YOUR_LOGIN/devops-netology. Изучите предлагае
 
 [По ссылке](https://www.jetbrains.com/help/pycharm/commit-and-push-changes.html) можно найти справочную информацию по визуальному интерфейсу. 
 
+---
+
+# Ответ:
+## Задание 1.
+
+![1](https://github.com/Sawyer086/Git_02/blob/main/Screenshots/1.jpg)
+
+## Задание 2.
+
+![2](https://github.com/Sawyer086/Git_02/blob/main/Screenshots/2.jpg)
+![2.1](https://github.com/Sawyer086/Git_02/blob/main/Screenshots/2.1.jpg)
+![2.2](https://github.com/Sawyer086/Git_02/blob/main/Screenshots/2.2.jpg)
+![2.3](https://github.com/Sawyer086/Git_02/blob/main/Screenshots/2.3.jpg)
+
+Принципиальной разницы я не заметил, но на удаленном репозитории в Gitlab создать теги было проще нежели в Github. На локальных репозиториях разницы нет, команды теже.
+
