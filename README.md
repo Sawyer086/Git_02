@@ -23,7 +23,7 @@
 
 ------
 
-## Задание 1. Знакомимся с GitLab и Bitbucket 
+## Задание 1. Знакомимся с GitLab
 
 Из-за сложности доступа к Bitbucket в работе достаточно использовать два репозитория: GitHub и GitLab.
 
@@ -106,6 +106,12 @@ https://gitlab.com/YOUR_LOGIN/devops-netology. Изучите предлагае
 ---
 
 # Ответ:
+
+https://github.com/Sawyer086/Git_02
+
+https://gitlab.com/devops-netology4/gitlab
+
+
 ## Задание 1.
 
 ![1](https://github.com/Sawyer086/Git_02/blob/main/Screenshots/1.jpg)
@@ -117,5 +123,9 @@ https://gitlab.com/YOUR_LOGIN/devops-netology. Изучите предлагае
 ![2.2](https://github.com/Sawyer086/Git_02/blob/main/Screenshots/2.2.jpg)
 ![2.3](https://github.com/Sawyer086/Git_02/blob/main/Screenshots/2.3.jpg)
 
-Принципиальной разницы я не заметил, но на удаленном репозитории в Gitlab создать теги было проще нежели в Github. На локальных репозиториях разницы нет, команды теже.
+Принципиальной разницы я не заметил, но на удаленном репозитории в Gitlab создать теги было проще нежели в Github. На локальных репозиториях разницы нет, команды те же.
+
+## Задание 3.
+
+
 
