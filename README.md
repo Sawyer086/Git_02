@@ -127,5 +127,10 @@ https://gitlab.com/devops-netology4/gitlab
 
 ## Задание 3.
 
+## Задание 4.
 
+Пощупал PyCharm, добавил тег. Не сомневаюсь, что это удобная программа, но она также требует времени для изучения. Мне, например, впервые запустившему подобную программу, было не совсем просто сразу разобраться в ней.
+
+![4](https://github.com/Sawyer086/Git_02/blob/main/Screenshots/4.jpg)
+![4.1](https://github.com/Sawyer086/Git_02/blob/main/Screenshots/4.1.jpg)
 
