@@ -126,6 +126,7 @@ https://gitlab.com/devops-netology4/gitlab
 Принципиальной разницы я не заметил, но на удаленном репозитории в Gitlab создать теги было проще нежели в Github. На локальных репозиториях разницы нет, команды те же.
 
 ## Задание 3.
+
 ![3](https://github.com/Sawyer086/Git_02/blob/main/Screenshots/3.jpg)
 ![3.1](
 ![3.2](https://github.com/Sawyer086/Git_02/blob/main/Screenshots/3.2.jpg)
@@ -137,3 +138,4 @@ https://gitlab.com/devops-netology4/gitlab
 ![4](https://github.com/Sawyer086/Git_02/blob/main/Screenshots/4.jpg)
 ![4.1](https://github.com/Sawyer086/Git_02/blob/main/Screenshots/4.1.jpg)
 
+Michus Chikudno
