@@ -128,7 +128,7 @@ https://gitlab.com/devops-netology4/gitlab
 ## Задание 3.
 
 ![3](https://github.com/Sawyer086/Git_02/blob/main/Screenshots/3.jpg)
-![3.1](
+![3.1](https://github.com/Sawyer086/Git_02/blob/main/Screenshots/3.1.jpg)
 ![3.2](https://github.com/Sawyer086/Git_02/blob/main/Screenshots/3.2.jpg)
 
 ## Задание 4.
