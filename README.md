@@ -138,4 +138,3 @@ https://gitlab.com/devops-netology4/gitlab
 ![4](https://github.com/Sawyer086/Git_02/blob/main/Screenshots/4.jpg)
 ![4.1](https://github.com/Sawyer086/Git_02/blob/main/Screenshots/4.1.jpg)
 
-Michus Chikudno
